@@ -18,7 +18,7 @@ MonoBehaviour:
     m_Value: 0.88
   intensity:
     m_OverrideState: 1
-    m_Value: 2.67
+    m_Value: 9.91
   scatter:
     m_OverrideState: 1
     m_Value: 0.7
@@ -130,11 +130,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   postExposure:
-    m_OverrideState: 0
-    m_Value: 1.98
+    m_OverrideState: 1
+    m_Value: -1.91
   contrast:
     m_OverrideState: 1
-    m_Value: 16
+    m_Value: 27
   colorFilter:
     m_OverrideState: 0
     m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -218,8 +218,8 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.20451128
-          value: 0.6346154
+          time: 0.14135338
+          value: 0.12820512
           inSlope: 1
           outSlope: 1
           tangentMode: 0
@@ -227,8 +227,8 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.3037594
-          value: 0
+          time: 0.28270677
+          value: 0.4102564
           inSlope: 0.4416761
           outSlope: 0.4416761
           tangentMode: 0
@@ -236,8 +236,8 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.42257598
-          value: 0.48765433
+          time: 0.46616542
+          value: 0
           inSlope: 1.2464311
           outSlope: 1.2464311
           tangentMode: 0
@@ -245,8 +245,8 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.65701884
-          value: 0.35802472
+          time: 0.66466165
+          value: 0
           inSlope: 2.8083389
           outSlope: 2.8083389
           tangentMode: 0
@@ -254,17 +254,17 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.77293235
-          value: 0.22435898
-          inSlope: -3.0470884
-          outSlope: -3.0470884
+          time: 0.84210527
+          value: 0.6346154
+          inSlope: 1.3976457
+          outSlope: 1.3976457
           tangentMode: 0
           weightedMode: 0
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
           time: 1
-          value: 0
+          value: 1
           inSlope: 1
           outSlope: 1
           tangentMode: 0
